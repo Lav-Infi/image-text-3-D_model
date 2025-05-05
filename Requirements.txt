@@ -1,0 +1,6 @@
+rembg
+onnxruntime
+trimesh
+pyrender
+matplotlib
+opencv-python
